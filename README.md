@@ -5,7 +5,7 @@ ModerationTools is a plugin that allows you to moderate the server more easily. 
 # BETA
 This plugin is under development and not all features may work exactly as they should. At the moment, you can use the beta version of the plugin and give us feedback on problems or ideas. NB! Beta versions are without console errors. Also, this plugin is updated as a hobby or when there is feedback about the plugin.
 
-- **[SPIGOT DOWNLOAD](https://www.spigotmc.org/resources/moderationtools.114162/)**
+- **[SPIGOT DOWNLOAD](https://www.spigotmc.org/resources/moderationtools.114162/)** ![Spiget Downloads](https://img.shields.io/spiget/downloads/114162)
 
 # Commands & Permissions
 | Command  | Alias | Permission | Info |
